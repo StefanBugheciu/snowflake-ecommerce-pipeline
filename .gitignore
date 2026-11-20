@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tmp
+*.log
+*.pem
+*.p8
+*.key
+*.p12
+*.pfx
+.snowflake/
+connections.toml
